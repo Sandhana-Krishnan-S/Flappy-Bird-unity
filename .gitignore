@@ -1,0 +1,75 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Crash Reports
+*.stacktrace
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# Unity Editor settings
+/[Aa]ssets/[Aa]daptivePerformance/
+*.unityproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.tmp
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Builds
+/[Bb]uild/
+/[Bb]uilds/
+
+# Packed Addressables
+/[Aa]ddressable[Aa]ssets[Dd]ata/
+
+# Unity Cache
+/[Uu]ser[Ss]ettings/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# MonoDevelop
+*.pidb
+*.unityproj
+
+# Visual Studio
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.userprefs
+
+# Other
+*.DS_Store
+*.apk
+*.assetstoretools
+*.orig
+*.log
+*.swp
+*.out
+*.lock
+
+# Mac system files
+.DS_Store
+._*
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
